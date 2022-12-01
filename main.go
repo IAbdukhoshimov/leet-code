@@ -1,15 +1,6 @@
 package main
 
-import "fmt"
-
 func main() {
-	// fmt.Println(PalindromeNumber(121))
-	// fmt.Println(PalindromeNumber(100))
-
-	// fmt.Println(TwoSum([]int{2, 7, 11, 15}, 9))
-	// fmt.Println(TwoSum([]int{2, 7, 11, 15}, 18))
-
-	// fmt.Println(isPowerOfFour(16))
-
-	fmt.Println(ContainDuplicate([]int{1, 2, 3, 1}))
+	avaregeValue([]int{1, 2, 3, 4, 5, 6, 7, 8, 9, 10})
+	// mergeTwoLists([]int{1, 2, 3, 4, 5, 6, 7, 8, 9, 10}, []int{1, 2, 3, 4, 5, 6, 7, 8, 9, 10})
 }
